@@ -1,0 +1,14 @@
+layout_spectrum: 0.7023609
+typography_spectrum: 0.2369309
+color:
+  saturation: 0.3028232
+  lightness: 0.97998
+  brandStrength: 0.3229342
+  brandColors:
+    - '#FFFFFF'
+    - '#CFCFD0'
+    - '#767777'
+    - '#424343'
+    - '#202020'
+  rhythmicContrast: 0.382534
+name: Timestincup.com
