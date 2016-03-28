@@ -1,14 +1,26 @@
-layout_spectrum: 0.7023609
-typography_spectrum: 0.2369309
 color:
   saturation: 0.3028232
-  lightness: 0.97998
   brandStrength: 0.3229342
+  rhythmicContrast: 0.382534
   brandColors:
     - '#FFFFFF'
     - '#CFCFD0'
     - '#767777'
     - '#424343'
     - '#202020'
-  rhythmicContrast: 0.382534
+  lightness: 0.97998
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.7023609
+typography_spectrum: 0.2369309
 name: Timestincup.com
